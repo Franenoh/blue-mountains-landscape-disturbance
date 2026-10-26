@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.tif
+*.tiff
+*.zip
+*.shp
+*.dbf
+*.shx
+*.prj
+*.gpkg
+*.geojson
+.env
+credentials.json
